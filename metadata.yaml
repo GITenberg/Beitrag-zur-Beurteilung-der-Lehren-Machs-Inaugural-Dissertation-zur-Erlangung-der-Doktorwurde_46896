@@ -1,4 +1,8 @@
 _repo: Beitrag-zur-Beurteilung-der-Lehren-Machs-Inaugural-Dissertation-zur-Erlangung-der-Doktorwurde_46896
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46896-h/images/cover.jpg
 creator:
   author:
     agent_name: Musil, Robert
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37187
     wikipedia: http://en.wikipedia.org/wiki/Robert_Musil
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46896#Beitrag-zur-Beurteilung-der-Lehren-Machs-Inaugural-Dissertation-zur-Erlangung-der-Doktorwurde
 gutenberg_issued: '2014-09-18'
 gutenberg_type: Text
 identifiers:
